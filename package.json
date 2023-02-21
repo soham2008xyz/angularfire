@@ -27,11 +27,11 @@
     "package.json"
   ],
   "dependencies": {
-    "firebase": "3.x.x"
+    "firebase": "9.x.x"
   },
   "peerDependencies": {
     "angular": "^1.3.0",
-    "firebase": "3.x.x"
+    "firebase": "9.x.x"
   },
   "devDependencies": {
     "angular": "^1.3.0",
